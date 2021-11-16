@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = C:/Users/braxt/Documents/CS348/hello
+[remote "orgin"]
+	url = git@github.com:ebraxton1/GitImmersion.git
+	fetch = +refs/heads/*:refs/remotes/orgin/*
